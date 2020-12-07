@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* High School Diploma in Huizhou NO.1 Middle School, Guangdong, China, 2016
 * B.S. in Jilin University, China, 2020
 
 
@@ -24,12 +25,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Proficiency
+  * IELTS: Overall 7.5 (Reading:8.5, Speaking:6.0, Listening:8.5, Writing:6.0)
+  * GRE: Overall 328 (V:159, Q:169, W:3.5)
 
 Publications
 ======
@@ -37,18 +35,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

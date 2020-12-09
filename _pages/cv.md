@@ -38,6 +38,7 @@ Honors
 * University Excellent Student Leader (11/2018)
 * Second Class Scholarship for outstanding academic performance (11/2018)
 * Third Prize Scholarship for outstanding academic performance (11/2017)
+* Excellent Graduate Thesis in College (06/2020) [paper link](https://jlu-neal.github.io/ZifengTang-s-MainPage/files/paper4.pdf).
 
 Publications
 ======

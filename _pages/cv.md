@@ -31,7 +31,7 @@ Skills
 
 Honors
 ======
-* Honorable Mention in the Mathematical Contest In Modeling (04/2019)[link](https://jlu-neal.github.io/ZifengTang-s-MainPage/files/paper3.pdf).
+* Honorable Mention in the Mathematical Contest In Modeling (04/2019) [paper link](https://jlu-neal.github.io/ZifengTang-s-MainPage/files/paper3.pdf).
 * First Class Scholarship for outstanding academic performance (05/2020)
 * First Class Scholarship for outstanding academic performance (05/2019)
 * Individual Scholarship for Academic Science and Technology (05/2019)
